@@ -9,3 +9,4 @@ Car Wiper Components -
 2.Wiper Link.
 3.Wiper Arm.
 4.Wiper Blade.
+5.Wiper Linkage.
